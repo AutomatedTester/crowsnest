@@ -1,0 +1,16 @@
+{
+  "name": "crowsnest",
+  "version": "1.0.0",
+  "description": "CLI tool for watching a feed and alerting when there is a change",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "feed",
+    "rss",
+    "atom"
+  ],
+  "author": "David Burns",
+  "license": "Apache-2.0"
+}
